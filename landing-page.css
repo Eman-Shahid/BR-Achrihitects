@@ -1,0 +1,183 @@
+.nav {
+    display: flex;
+    box-shadow: 2px 2px rgb(245, 241, 241);
+    height: 25px;
+}
+
+.left {
+    letter-spacing: 4px;
+    padding-left: 10px;
+
+}
+
+.right {
+    letter-spacing: 4px;
+    padding-left: 850px;
+}
+
+.li {
+    color: black;
+}
+
+.div1 {
+    color: aliceblue;
+    background-image: url(image/architect\ \(1\).jpg);
+    background-repeat: no-repeat;
+    width: 1120px;
+    height: 750px;
+    margin-left: 90px;
+
+}
+
+.div2 {
+    padding-top: 380px;
+    padding-left: 150px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 4px;
+
+}
+
+.span1 {
+    background-color: black;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin: 1%;
+}
+
+#pro {
+    padding-top: 6px;
+    padding-left: 90px;
+    font-weight: bold;
+    padding-right: 65px;
+}
+
+#home {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 90px;
+
+}
+
+.summer_home {
+    width: 273px;
+    height: 200px;
+    margin-right: 10px;
+}
+
+.row {
+    position: relative;
+    text-align: center;
+}
+
+.box1 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+    width: 100px;
+    height: 2px;
+    top: 0px;
+    left: 0px;
+
+}
+
+.box2 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+    width: 100px;
+    height: 2px;
+    top: 0px;
+    left: 0px;
+}
+
+.col {
+    position: relative;
+    text-align: center;
+}
+
+
+#houses {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+#about {
+    padding-top: 6px;
+    padding-left: 90px;
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+.para {
+    padding-left: 90px;
+    padding-right: 65px;
+    text-align: justify;
+}
+
+#team {
+    display: flex;
+    margin-left: 90px;
+}
+
+.rows {
+    width: 273px;
+    height: 200px;
+    margin-right: 10px;
+    filter: grayscale(100%);
+}
+
+.rows1 {
+    width: 273px;
+    height: 200px;
+    margin-right: 10px;
+    filter: grayscale(50%);
+
+}
+
+.states {
+    width: 270px;
+}
+
+#contact {
+    padding-top: 6px;
+    padding-left: 90px;
+    font-weight: bold;
+    padding-right: 65px;
+}
+
+.info {
+    padding-left: 90px;
+    padding-right: 65px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-left: 90px;
+    margin-right: 65px;
+    text-align: center;
+    width: 87%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.in {
+    height: 30px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    height: 25px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
